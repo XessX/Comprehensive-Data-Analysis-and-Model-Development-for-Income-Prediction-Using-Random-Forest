@@ -1,6 +1,6 @@
-# Comprehensive-Data-Analysis-and-Model-Development-for-Income-Prediction-Using-Random-Forestand XGBoost
--Analyzed Dataset From kaggle
--Language - Python
--Used Libraries like Numpy, Pandas, Scikit-Learn
--Algorithms - Logistic Regression, Random Forest, XGBoost
+# Comprehensive-Data-Analysis-and-Model-Development-for-Income-Prediction-Using-Random-Forestand XGBoost\n
+-Analyzed Dataset From kaggle\n
+-Language - Python\n
+-Used Libraries like Numpy, Pandas, Scikit-Learn\n
+-Algorithms - Logistic Regression, Random Forest, XGBoost\n
 -Tools - Jupyter Notebook
