@@ -1,4 +1,4 @@
-# Comprehensive-Data-Analysis-and-Model-Development-for-Income-Prediction-Using-Random-Forestand XGBoost<br />
+# Comprehensive Data-Analysis and Model Development for Income Prediction Using Random Forest and XGBoost<br />
 -Analyzed Dataset From kaggle<br />
 -Language - Python<br />
 -Used Libraries like Numpy, Pandas, Scikit-Learn<br />
